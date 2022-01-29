@@ -1,4 +1,4 @@
-[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-alexactss/branch/master/graph/badge.svg?token=et8DFIZWCM)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-alexactss)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-alexactss/branch/main/graph/badge.svg?token=et8DFIZWCM)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-alexactss)
 # demo-spring-react-example: dsre
 
 Storybook is here:
